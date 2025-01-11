@@ -1,8 +1,9 @@
-# Vue-project
+# vue-project
 
-Skzbic run ara json-server pakage-y (Backend i imitacia a);
+## Project setup
 
-npx json-server server/db.json
+Hekto App clone with Vue
 
-heto nor 
-npm run serve
+Using Pinia as state management tool.
+multiple pages with products filtering, cart page
+simple db with json
